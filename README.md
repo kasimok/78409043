@@ -1,0 +1,1 @@
+this is a demo app for stackoverflow question: [How to enlarge or make sure the maximum AVAssetWriter Input frame size?](https://stackoverflow.com/questions/78409043/how-to-enlarge-or-make-sure-the-maximum-avassetwriter-input-frame-size)
